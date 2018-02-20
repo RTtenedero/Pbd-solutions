@@ -1,0 +1,12 @@
+public class VariablesAndNames {
+    public static void main(String[] args) {
+        int cars, drivers, passengers, carsNotDriven, carsDriven;
+        double spaceInCar, carpoolCapacity, averagePassengersPerCar;
+        
+        cars = 200;
+        spaceInCar = 5.0;
+        drivers = 20;
+        passengers = 80;
+        carsNotDriven = cars - drivers;
+        carsDriven = drivers;
+        carpoolCapacity = carsDriven * spaceInCar;
