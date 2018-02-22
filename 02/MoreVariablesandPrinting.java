@@ -15,5 +15,5 @@ public class MoreVariablesAndPrinting {
         System.out.println("He's" + myHeight + "inches tall.");
         System.out.println("He's" + myHeight + "pounds heavy.");
         System.out.println("Actually, that's not too heavy.");
-        System.out.println(
+        System.out.println("He's got" my
         System.out.println
